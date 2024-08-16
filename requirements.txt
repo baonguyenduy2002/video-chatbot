@@ -1,0 +1,12 @@
+scenedetect
+Pillow 
+scipy 
+torch 
+torchvision
+opencv-python
+transformers
+langchain_openai
+langchain_chroma
+langchain_community
+python-bidi
+easy-ocr
